@@ -3,7 +3,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=itsmeikybot)
 
 [![Athallah github stats](https://github-readme-stats.vercel.app/api?username=huangnata&show_icons=true&theme=radical)](https://github.com/AthallahDzaki/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmeikybot&repo=SAMPMobile)](https://github.com/itsmeikybot/itsmeikybot.github.io)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeikybot&layout=compact)](https://github.com/itsmeikybot/github-readme-stats)
 - 🔭 I’m currently studying on Senior High School on Indonesia
 - 🌱 I’m currently learning JS, CPP, C, PHP and HTML
